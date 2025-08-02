@@ -174,6 +174,7 @@
 	"locationIsland": "nell'Isola Zenzero",
 	"locationVolcano": "nel Vulcano",
 	"locationAdventurerSummit": "sulla Cima dell'Avventuriero", // SVE
+	"locationForestWest": "in Cindersap Forest (West)", // SVE // TODO
 	"locationRidgeForest": "nella Foresta Cresta", // RSV
 	"locationMagesRest": "al Mage's Rest", // Alchemistry
 	"locationUnknown": "nel ???",
@@ -297,6 +298,7 @@
 	"treePear": "Pero", // Cornucopia
 	"treePistachio": "Albero di pistacchio", // Cornucopia
 	"treeFir": "Abete", // SVE
+	"treeBirch": "Birch Tree", // SVE // TODO
 	"treeNectarine": "Albero di nettarine", // SVE
 	"treeCherryPluot": "Amolo", // RSV
 	"treeMountainPlumcot": "Prugno di montagna", // RSV

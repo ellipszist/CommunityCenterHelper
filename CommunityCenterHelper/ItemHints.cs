@@ -2358,6 +2358,37 @@ namespace CommunityCenterHelper
                     case ItemID.IT_RadishSalad:
                         return strCookRecipe("Radish Salad");
                     
+                    /********** [Stardew Valley Expanded Built-In Bundles] Crafts Room **********/
+                    
+                    case ItemID.SVE_RedBaneberry:
+                        return strSeasonalLocationalForage("summer", "locationWoods");
+                    
+                    case ItemID.SVE_BirchWater:
+                        return strTapTree("treeBirch") + "\n"
+                             + strBuyFrom("shopWestForestBear") + "\n"
+                             + strFishPond(ItemID.SVE_Gar, 5);
+                    
+                    /********** [Stardew Valley Expanded Built-In Bundles] Fish Tank **********/
+                    
+                    case ItemID.SVE_Goldfish:
+                        return strFishBase(waterList: new string[] { "waterTown", "waterBlueMoonVineyard" }, seasonKey: "spring");
+                    
+                    /********** [Stardew Valley Expanded Built-In Bundles] Bulletin Board **********/
+                    
+                    case ItemID.SVE_FourLeafClover:
+                        return strSeasonalLocationalForage(seasonList: new string[] { "spring", "summer" }, locationKey: "locationForestWest") + "\n"
+                             + strSeasonalLocationalForage(seasonList: new string[] { "spring", "summer" }, locationKey: "locationWoods");
+                    
+                    /********** [Stardew Valley Expanded Built-In Bundles] The Missing Bundle **********/
+                    
+                    case ItemID.SVE_Shark:
+                        return strFishBase("waterIslandOcean");
+                    
+                    /********** [Stardew Valley Expanded Built-In Bundles (Hard)] The Missing Bundle **********/
+                    
+                    case ItemID.SVE_ShinyLunaloo:
+                        return strFishBase("waterIslandOcean");
+                    
                     /********** [Legacy CC Bundles] Pantry **********/
                     
                     // [Legacy CC Bundles] Master Artisan Bundle

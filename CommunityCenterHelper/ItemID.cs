@@ -679,6 +679,7 @@
         public const string SVE_Bearberry = "FlashShifter.StardewValleyExpandedCP_Bearberrys";
         public const string SVE_BigBarkBurger = "FlashShifter.StardewValleyExpandedCP_Big_Bark_Burger";
         public const string SVE_BirchSyrup = "FlashShifter.StardewValleyExpandedCP_Birch_Syrup";
+        public const string SVE_BirchWater = "FlashShifter.StardewValleyExpandedCP_Birch_Water";
         public const string SVE_BlueMoonWine = "FlashShifter.StardewValleyExpandedCP_Blue_Moon_Wine";
         public const string SVE_Butter = "FlashShifter.StardewValleyExpandedCP_Butter";
         public const string SVE_Butterfish = "FlashShifter.StardewValleyExpandedCP_Butterfish";
@@ -689,9 +690,12 @@
         public const string SVE_Conch = "FlashShifter.StardewValleyExpandedCP_Big_Conch";
         public const string SVE_DulseSeaweed = "FlashShifter.StardewValleyExpandedCP_Dulse_Seaweed";
         public const string SVE_FirWax = "FlashShifter.StardewValleyExpandedCP_Fir_Wax";
+        public const string SVE_FourLeafClover = "FlashShifter.StardewValleyExpandedCP_Lucky_Four_Leaf_Clover";
         public const string SVE_Frog = "FlashShifter.StardewValleyExpandedCP_Frog";
         public const string SVE_FrogLegs = "FlashShifter.StardewValleyExpandedCP_Frog_Legs";
+        public const string SVE_Gar = "FlashShifter.StardewValleyExpandedCP_Gar";
         public const string SVE_GlazedButterfish = "FlashShifter.StardewValleyExpandedCP_Glazed_Butterfish";
+        public const string SVE_Goldfish = "FlashShifter.StardewValleyExpandedCP_Goldfish";
         public const string SVE_GrassCarp = "FlashShifter.StardewValleyExpandedCP_Grass_Carp";
         public const string SVE_GrilledCheeseSandwich = "FlashShifter.StardewValleyExpandedCP_Grilled_Cheese_Sandwich";
         public const string SVE_IceCreamSundae = "FlashShifter.StardewValleyExpandedCP_Ice_Cream_Sundae";
@@ -709,8 +713,11 @@
         public const string SVE_Puppyfish = "FlashShifter.StardewValleyExpandedCP_Puppyfish";
         public const string SVE_RadioactiveBass = "FlashShifter.StardewValleyExpandedCP_Radioactive_Bass";
         public const string SVE_Rafflesia = "FlashShifter.StardewValleyExpandedCP_Smelly_Rafflesia";
+        public const string SVE_RedBaneberry = "FlashShifter.StardewValleyExpandedCP_Red_Baneberry";
         public const string SVE_SalalBerry = "FlashShifter.StardewValleyExpandedCP_Salal_Berry";
         public const string SVE_SandDollar = "FlashShifter.StardewValleyExpandedCP_Dried_Sand_Dollar";
+        public const string SVE_Shark = "FlashShifter.StardewValleyExpandedCP_Shark";
+        public const string SVE_ShinyLunaloo = "FlashShifter.StardewValleyExpandedCP_Shiny_Lunaloo";
         public const string SVE_ShrubSeed = "FlashShifter.StardewValleyExpandedCP_Shrub_Seed";
         public const string SVE_SweetPotato = "FlashShifter.StardewValleyExpandedCP_Sweet_Potato";
         public const string SVE_Starfish = "FlashShifter.StardewValleyExpandedCP_Starfish";
